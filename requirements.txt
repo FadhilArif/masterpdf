@@ -1,0 +1,7 @@
+streamlit
+pypdf
+PyMuPDF
+img2pdf
+pdf2docx
+Pillow
+yt-dlp
